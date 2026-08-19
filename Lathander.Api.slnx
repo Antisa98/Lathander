@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/Crosscutting/">
+    <Project Path="Crosscutting/Lathander.Configuration/Lathander.Configuration.csproj" />
+    <Project Path="Crosscutting/Lathander.IoC/Lathander.IoC.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="docs/CHANGELOG.md" />
+    <File Path="docs/README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Lathander.Api/Lathander.Api.csproj" />
+    <Project Path="src/Lathander.Application/Lathander.Application.csproj" />
+    <Project Path="src/Lathander.Domain/Lathander.Domain.csproj" Id="45b84337-3985-40e4-aff5-17d415aab2c3" />
+    <Project Path="src/Lathander.Infrastructure/Lathander.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Lathander.Tests.Unit/Lathander.Tests.Unit.csproj" />
+  </Folder>
+</Solution>
